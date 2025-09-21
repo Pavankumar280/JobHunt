@@ -122,7 +122,8 @@ POST /auth/login – User login
 ![Job Details](https://res.cloudinary.com/dsmxl2q3j/image/upload/v1758472669/Screenshot_2025-09-21_220232_xzkqd3.png)
 
 ### Admin Dashboard
-![Admin](https://res.cloudinary.com/dsmxl2q3j/image/upload/v1758472867/Screenshot_2025-09-21_221041_nlmstx.png)
+![Admin Dashboard](https://res.cloudinary.com/dsmxl2q3j/image/upload/v1758472867/Screenshot_2025-09-21_221041_nlmstx.png)
+
 
 Contributing
 Fork the repository
