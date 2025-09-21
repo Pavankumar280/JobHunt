@@ -112,8 +112,6 @@ POST /auth/login – User login
 
 ## Screenshots
 
-## Screenshots
-
 ### Homepage
 ![Homepage](https://res.cloudinary.com/dsmxl2q3j/image/upload/v1758472668/Screenshot_2025-09-21_220213_meyksv.png)
 
