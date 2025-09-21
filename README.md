@@ -147,22 +147,3 @@ Email: pavansonune10@mail.com
 yaml
 
 
----
-
-If you want, I can also **add a badges section** for tech stack, license, and version, to make it look more professional for GitHub.  
-
-Do you want me to do that?
-
-
-
-
-
-
-
-Ask ChatGPT
-
-
-
-
-
-ChatGPT can make mistakes. Check important info. See 
