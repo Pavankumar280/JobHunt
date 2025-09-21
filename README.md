@@ -2,7 +2,7 @@
 
 A full-stack Job Portal application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This platform allows users to search, filter, and apply for jobs, while companies can post job listings and manage applicants.
 
-## Project Structure
+## Folder Structure
 
 JobPortal/
 ├── backend/ # Node.js + Express API
