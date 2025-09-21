@@ -4,11 +4,30 @@ A full-stack Job Portal application built using the MERN stack (MongoDB, Express
 
 ## Folder Structure
 
+```text
 JobPortal/
-├── backend/ # Node.js + Express API
-├── frontend/ # React.js client
+├── backend/       # Node.js + Express API
+│   ├── controllers/
+│   ├── middlewares/
+│   ├── models/
+│   ├── routes/
+│   ├── utils/
+│   ├── package.json
+│   └── index.js
+├── frontend/      # React.js client
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── hooks/
+│   │   ├── redux/
+│   │   ├── utils/
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   ├── package.json
+│   └── vite.config.js
 ├── .gitignore
 └── README.md
+
 
 markdown
 
@@ -93,6 +112,8 @@ POST /auth/login – User login
 
 ## Screenshots
 
+## Screenshots
+
 ### Homepage
 ![Homepage](https://res.cloudinary.com/dsmxl2q3j/image/upload/v1758472668/Screenshot_2025-09-21_220213_meyksv.png)
 
@@ -102,8 +123,9 @@ POST /auth/login – User login
 ### Job Details
 ![Job Details](https://res.cloudinary.com/dsmxl2q3j/image/upload/v1758472669/Screenshot_2025-09-21_220232_xzkqd3.png)
 
-### Admin 
+### Admin Dashboard
 ![Admin](https://res.cloudinary.com/dsmxl2q3j/image/upload/v1758472867/Screenshot_2025-09-21_221041_nlmstx.png)
+
 Contributing
 Fork the repository
 
